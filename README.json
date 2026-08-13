@@ -1,0 +1,1042 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Metasploit",
+          "description": "A computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-13T17:29:51Z",
+            "owner": "rapid7",
+            "repo": "metasploit-framework",
+            "stars": 38799
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mimikatz",
+          "description": "A little tool to play with Windows security",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-17T17:48:27Z",
+            "owner": "gentilkiwi",
+            "repo": "mimikatz",
+            "stars": 21769
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "- official OWASP ZAP",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T08:21:53Z",
+            "owner": "zaproxy",
+            "repo": "zaproxy",
+            "stars": 15591
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "- OWASP NodeGoat",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-06-15T01:20:40Z",
+            "owner": "OWASP",
+            "repo": "NodeGoat",
+            "stars": 2060
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "- OWASP Juice Shop",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Docker Images for Penetration Testing & Security"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "x64dbg",
+          "description": "An open-source x64/x32 debugger for Windows",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-09T19:10:42Z",
+            "owner": "x64dbg",
+            "repo": "x64dbg",
+            "stars": 49153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "radare2",
+          "description": "A portable reversing framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T11:41:54Z",
+            "owner": "radareorg",
+            "repo": "radare2",
+            "stars": 24564
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Capstone",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T10:29:27Z",
+            "owner": "capstone-engine",
+            "repo": "capstone",
+            "stars": 8945
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plasma",
+          "description": "Interactive disassembler for x86/ARM/MIPS. Generates indented pseudo-code with colored syntax code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-31T16:57:42Z",
+            "owner": "plasma-disassembler",
+            "repo": "plasma",
+            "stars": 3072
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ScratchABit",
+          "description": "Easily retargetable and hackable interactive disassembler with IDAPython-compatible plugin API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-11-25T22:03:17Z",
+            "owner": "pfalcon",
+            "repo": "ScratchABit",
+            "stars": 413
+          }
+        }
+      ],
+      "title": "Disassemblers and debuggers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JADX",
+          "description": "a decompiler for Android apps. Not related to JAD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-05T19:19:01Z",
+            "owner": "skylot",
+            "repo": "jadx",
+            "stars": 50051
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JD-GUI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-07-08T18:45:59Z",
+            "owner": "java-decompiler",
+            "repo": "jd-gui",
+            "stars": 15172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Krakatau",
+          "description": "the best decompiler I have used. Is able to decompile apps written in Scala and Kotlin into Java code. JD-GUI and Luyten have failed to do it fully.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-07T03:40:10Z",
+            "owner": "Storyyeller",
+            "repo": "Krakatau",
+            "stars": 2241
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "procyon",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Luyten",
+              "description": "one of the best, though a bit slow, hangs on some binaries and not very well maintained.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2024-07-11T07:09:11Z",
+                "owner": "deathmarine",
+                "repo": "Luyten",
+                "stars": 5110
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": ".net-based languages",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "dnSpy",
+              "description": ".NET assembly editor, decompiler, and debugger",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "C#",
+                "last_commit": "2020-12-20T23:55:15Z",
+                "owner": "dnSpy",
+                "repo": "dnSpy",
+                "stars": 29694
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ILSpy",
+              "description": "an open-source .NET assembly browser and decompiler",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C#",
+                "last_commit": "2026-08-13T15:15:17Z",
+                "owner": "icsharpcode",
+                "repo": "ILSpy",
+                "stars": 25854
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "native code",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "retdec",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-05-26T09:04:25Z",
+                "owner": "avast",
+                "repo": "retdec",
+                "stars": 8604
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "snowman",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": null,
+                "last_commit": "2023-03-09T09:03:46Z",
+                "owner": "yegord",
+                "repo": "snowman",
+                "stars": 2247
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cutter",
+              "description": "a decompiler based on radare2.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Python",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "uncompyle6",
+              "description": "decompiler for the over 20 releases and 20 years of CPython.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-04-24T15:24:48Z",
+                "owner": "rocky",
+                "repo": "python-uncompyle6",
+                "stars": 4317
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Decompilers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JS Beautifier",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T20:48:50Z",
+            "owner": "beautifier",
+            "repo": "js-beautify",
+            "stars": 8984
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "de4dot",
+          "description": ".NET deobfuscator and unpacker.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2020-08-29T08:14:56Z",
+            "owner": "de4dot",
+            "repo": "de4dot",
+            "stars": 7433
+          }
+        }
+      ],
+      "title": "Deobfuscators"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dex2jar",
+          "description": "Tools to work with Android .dex and Java .class files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-07-21T06:08:25Z",
+            "owner": "pxb1988",
+            "repo": "dex2jar",
+            "stars": 13133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "antinet",
+          "description": ".NET anti-managed debugger and anti-profiler code",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2014-04-14T18:05:26Z",
+            "owner": "0xd4d",
+            "repo": "antinet",
+            "stars": 307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nudge4j",
+          "description": "Java tool to let the browser talk to the JVM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-04-12T21:56:36Z",
+            "owner": "lorenzoongithub",
+            "repo": "nudge4j",
+            "stars": 164
+          }
+        }
+      ],
+      "title": "Other"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mitmproxy",
+          "description": "An interactive, SSL-capable man-in-the-middle proxy for HTTP with a console interface",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T13:50:59Z",
+            "owner": "mitmproxy",
+            "repo": "mitmproxy",
+            "stars": 44682
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "USBPcap",
+          "description": "USB capture for Windows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-02-09T16:32:47Z",
+            "owner": "desowin",
+            "repo": "usbpcap",
+            "stars": 1123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "drltrace",
+          "description": "shared library calls tracing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-08-16T13:55:18Z",
+            "owner": "mxmssh",
+            "repo": "drltrace",
+            "stars": 419
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dynStruct",
+          "description": "structures recovery via dynamic instrumentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2019-08-12T09:15:09Z",
+            "owner": "ampotos",
+            "repo": "dynStruct",
+            "stars": 329
+          }
+        }
+      ],
+      "title": "Execution logging and tracing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Binary files examination and editing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DBeaver",
+          "description": "a DB editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T13:29:53Z",
+            "owner": "dbeaver",
+            "repo": "dbeaver",
+            "stars": 51447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Binwalk",
+          "description": "Detects signatures, unpacks archives, visualizes entropy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T15:27:34Z",
+            "owner": "ReFirmLabs",
+            "repo": "binwalk",
+            "stars": 14225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dependencies",
+          "description": "a FOSS replacement to Dependency Walker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-05-15T00:55:24Z",
+            "owner": "lucasg",
+            "repo": "Dependencies",
+            "stars": 11755
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kaitai Struct",
+          "description": "a DSL for creating parsers in a variety of programming languages. The Web IDE is particularly useful for reverse-engineering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-10T19:05:45Z",
+            "owner": "kaitai-io",
+            "repo": "kaitai_struct",
+            "stars": 4653
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Veles",
+          "description": "a visualizer for statistical properties of blobs.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2019-06-16T09:07:16Z",
+            "owner": "codilime",
+            "repo": "veles",
+            "stars": 1239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Protobuf inspector",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-13T16:13:38Z",
+            "owner": "mildsunrise",
+            "repo": "protobuf-inspector",
+            "stars": 1124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DarunGrim",
+          "description": "executable differ.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-08-22T22:28:36Z",
+            "owner": "ohjeongwook",
+            "repo": "DarunGrim",
+            "stars": 365
+          }
+        }
+      ],
+      "title": "Other"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sqlmap",
+          "description": "Automatic SQL injection and database takeover tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T17:27:36Z",
+            "owner": "sqlmapproject",
+            "repo": "sqlmap",
+            "stars": 38176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "masscan",
+          "description": "Internet scale portscanner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-23T20:34:38Z",
+            "owner": "robertdavidgraham",
+            "repo": "masscan",
+            "stars": 25930
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SubFinder",
+          "description": "SubFinder is a subdomain discovery tool that discovers valid subdomains for any target using passive online sources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T14:22:49Z",
+            "owner": "projectdiscovery",
+            "repo": "subfinder",
+            "stars": 14192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NoSQLMap",
+          "description": "Automated NoSQL database enumeration and web application exploitation tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-28T02:28:11Z",
+            "owner": "codingo",
+            "repo": "NoSQLMap",
+            "stars": 3338
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PhpSploit",
+          "description": "Full-featured C2 framework which silently persists on webserver via evil PHP oneliner",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-06T13:49:14Z",
+            "owner": "nil0x42",
+            "repo": "phpsploit",
+            "stars": 2489
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VHostScan",
+          "description": "A virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, aliases and dynamic default pages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-18T07:42:58Z",
+            "owner": "codingo",
+            "repo": "VHostScan",
+            "stars": 1310
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "badtouch",
+          "description": "Scriptable network authentication cracker",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-12-19T14:50:40Z",
+            "owner": "kpcyrd",
+            "repo": "authoscope",
+            "stars": 418
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keyscope",
+          "description": "an extensible key and secret validation tool for auditing active secrets against multiple SaaS vendors",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-07-24T11:45:06Z",
+            "owner": "SpectralOps",
+            "repo": "keyscope",
+            "stars": 412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Git-Scanner",
+          "description": "A tool for bug hunting or pentesting for targeting websites that have open repositories available in public",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2020-06-23T05:44:26Z",
+            "owner": "HightechSec",
+            "repo": "git-scanner",
+            "stars": 384
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RustScan",
+          "description": "Extremely fast port scanner built with Rust, designed to scan all ports in a couple of seconds and utilizes nmap to perform port enumeration in a fraction of the time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-29T09:03:06Z",
+            "owner": "bee-san",
+            "repo": "RustScan",
+            "stars": 20268
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amass",
+          "description": "In-depth subdomain enumeration tool that performs scraping, recursive brute forcing, crawling of web archives, name altering and reverse DNS sweeping",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-19T05:16:40Z",
+            "owner": "owasp-amass",
+            "repo": "amass",
+            "stars": 14978
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nipe",
+          "description": "A script to make Tor Network your default gateway.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2026-06-27T10:01:13Z",
+            "owner": "htrgouvea",
+            "repo": "nipe",
+            "stars": 2366
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ssh-mitm",
+          "description": "An SSH/SFTP man-in-the-middle tool that logs interactive sessions and passwords.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2021-07-02T02:17:26Z",
+            "owner": "jtesta",
+            "repo": "ssh-mitm",
+            "stars": 1741
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sniffglue",
+          "description": "Secure multithreaded packet sniffer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-19T23:37:17Z",
+            "owner": "kpcyrd",
+            "repo": "sniffglue",
+            "stars": 1266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Habu",
+          "description": "Python Network Hacking Toolkit",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-30T20:49:22Z",
+            "owner": "fportantier",
+            "repo": "habu",
+            "stars": 983
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pig",
+          "description": "A Linux packet crafting tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-11-02T16:00:02Z",
+            "owner": "rafael-santiago",
+            "repo": "pig",
+            "stars": 479
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Netz",
+          "description": "Discover internet-wide misconfigurations, using zgrab2 and others.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-05-11T13:00:24Z",
+            "owner": "SpectralOps",
+            "repo": "netz",
+            "stars": 399
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scapy",
+          "description": "A Python tool and library for low level packet creation and manipulation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-06-09T20:16:19Z",
+            "owner": "secdev",
+            "repo": "awesome-scapy",
+            "stars": 363
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PETEP",
+          "description": "Extensible TCP/UDP proxy with GUI for traffic analysis & modification with SSL/TLS support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-12-01T13:49:53Z",
+            "owner": "Warxim",
+            "repo": "petep",
+            "stars": 231
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mitmsocks4j",
+          "description": "Man-in-the-middle SOCKS Proxy for Java",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2013-02-14T20:42:37Z",
+            "owner": "Akdeniz",
+            "repo": "mitmsocks4j",
+            "stars": 40
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sleuthkit",
+          "description": "A library and collection of command-line digital forensics tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T21:41:06Z",
+            "owner": "sleuthkit",
+            "repo": "sleuthkit",
+            "stars": 3126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CyLR",
+          "description": "NTFS forensic image collector",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-06-01T23:24:42Z",
+            "owner": "orlikoski",
+            "repo": "CyLR",
+            "stars": 733
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ciphey",
+          "description": "Automated decryption tool using artificial intelligence & natural language processing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T03:26:52Z",
+            "owner": "bee-san",
+            "repo": "Ciphey",
+            "stars": 21580
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xortool",
+          "description": "A tool to analyze multi-byte XOR cipher",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-21T12:05:24Z",
+            "owner": "hellman",
+            "repo": "xortool",
+            "stars": 1485
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Movies For Hackers",
+          "description": "A curated list of movies every hacker & cyberpunk must watch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-08-01T15:51:14Z",
+            "owner": "k4m4",
+            "repo": "movies-for-hackers",
+            "stars": 11856
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pentest Cheat Sheets",
+          "description": "Collection of cheat sheets useful for pentesting",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2024-02-16T13:38:52Z",
+            "owner": "coreb1t",
+            "repo": "awesome-pentest-cheat-sheets",
+            "stars": 4361
+          }
+        }
+      ],
+      "title": "General"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PowerSploit",
+          "description": "A PowerShell post exploitation framework",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PowerShell",
+            "last_commit": "2020-08-17T23:19:49Z",
+            "owner": "PowerShellMafia",
+            "repo": "PowerSploit",
+            "stars": 13091
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "empire",
+          "description": "A post exploitation framework for powershell and python.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PowerShell",
+            "last_commit": "2020-01-19T22:50:59Z",
+            "owner": "EmpireProject",
+            "repo": "Empire",
+            "stars": 7862
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "silenttrinity",
+          "description": "A post exploitation tool that uses iron python to get past powershell restrictions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Boo",
+            "last_commit": "2023-12-06T17:17:24Z",
+            "owner": "byt3bl33d3r",
+            "repo": "SILENTTRINITY",
+            "stars": 2343
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ebowla",
+          "description": "Framework for Making Environmental Keyed Payloads",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-01-28T10:45:15Z",
+            "owner": "Genetic-Malware",
+            "repo": "Ebowla",
+            "stars": 762
+          }
+        }
+      ],
+      "title": "tools"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T17:36:29.490Z",
+    "original_repository": "carpedm20/awesome-hacking",
+    "original_repository_sha": "fcd725e328ffcd7c2f19dd09d3069c5c1c5b4dbf",
+    "enhanced_repository": "enhansome/enhansome-hacking",
+    "enhanced_repository_description": null,
+    "title": "Awesome Hacking -An Amazing Project with stars"
+  }
+}

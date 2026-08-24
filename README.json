@@ -36,10 +36,10 @@
                 "archived": false,
                 "id": 2293158,
                 "language": "Ruby",
-                "last_commit": "2026-08-24T13:11:53Z",
+                "last_commit": "2026-08-24T16:47:55Z",
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38858
+                "stars": 38863
               }
             },
             {
@@ -71,7 +71,7 @@
                     "last_commit": "2026-08-21T13:16:22Z",
                     "owner": "zaproxy",
                     "repo": "zaproxy",
-                    "stars": 15675
+                    "stars": 15674
                   }
                 },
                 {
@@ -121,7 +121,7 @@
                     "last_commit": "2026-08-23T23:13:49Z",
                     "owner": "x64dbg",
                     "repo": "x64dbg",
-                    "stars": 49264
+                    "stars": 49268
                   }
                 },
                 {
@@ -148,7 +148,7 @@
                     "archived": false,
                     "id": 14735429,
                     "language": "C",
-                    "last_commit": "2026-08-22T12:04:42Z",
+                    "last_commit": "2026-08-24T16:00:15Z",
                     "owner": "capstone-engine",
                     "repo": "capstone",
                     "stars": 8972
@@ -203,7 +203,7 @@
                     "last_commit": "2026-08-19T18:52:12Z",
                     "owner": "skylot",
                     "repo": "jadx",
-                    "stars": 50181
+                    "stars": 50189
                   }
                 },
                 {
@@ -287,10 +287,10 @@
                         "archived": false,
                         "id": 1327739,
                         "language": "C#",
-                        "last_commit": "2026-08-24T10:54:36Z",
+                        "last_commit": "2026-08-24T16:36:28Z",
                         "owner": "icsharpcode",
                         "repo": "ILSpy",
-                        "stars": 25930
+                        "stars": 25931
                       }
                     }
                   ]
@@ -388,7 +388,7 @@
                     "last_commit": "2020-08-29T08:14:56Z",
                     "owner": "de4dot",
                     "repo": "de4dot",
-                    "stars": 7433
+                    "stars": 7434
                   }
                 }
               ],
@@ -462,7 +462,7 @@
                     "last_commit": "2026-08-22T09:33:08Z",
                     "owner": "mitmproxy",
                     "repo": "mitmproxy",
-                    "stars": 44792
+                    "stars": 44794
                   }
                 },
                 {
@@ -550,10 +550,10 @@
                         "archived": false,
                         "id": 44662669,
                         "language": "Java",
-                        "last_commit": "2026-08-24T13:36:24Z",
+                        "last_commit": "2026-08-24T16:59:34Z",
                         "owner": "dbeaver",
                         "repo": "dbeaver",
-                        "stars": 51528
+                        "stars": 51530
                       }
                     },
                     {
@@ -711,7 +711,7 @@
                 "last_commit": "2026-08-22T18:49:23Z",
                 "owner": "projectdiscovery",
                 "repo": "subfinder",
-                "stars": 14289
+                "stars": 14294
               }
             },
             {
@@ -851,7 +851,7 @@
                 "last_commit": "2026-07-29T09:03:06Z",
                 "owner": "bee-san",
                 "repo": "RustScan",
-                "stars": 20315
+                "stars": 20316
               }
             },
             {
@@ -866,7 +866,7 @@
                 "last_commit": "2026-07-19T05:16:40Z",
                 "owner": "owasp-amass",
                 "repo": "amass",
-                "stars": 15031
+                "stars": 15033
               }
             },
             {
@@ -1115,7 +1115,7 @@
                 "last_commit": "2024-08-01T15:51:14Z",
                 "owner": "k4m4",
                 "repo": "movies-for-hackers",
-                "stars": 11873
+                "stars": 11874
               }
             },
             {
@@ -1216,7 +1216,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:50:32.560Z",
+    "last_updated": "2026-08-24T17:08:51.074Z",
     "original_repository": "carpedm20/awesome-hacking",
     "original_repository_id": 28084589,
     "original_repository_sha": "fcd725e328ffcd7c2f19dd09d3069c5c1c5b4dbf",

@@ -64,10 +64,10 @@
                 "language": "Ruby",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T17:59:06Z",
-                "open_issues": 593,
+                "open_issues": 596,
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 38906,
+                "stars": 38913,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -110,10 +110,10 @@
                     "language": "Java",
                     "license": "Apache-2.0",
                     "last_commit": "2026-08-27T15:18:12Z",
-                    "open_issues": 858,
+                    "open_issues": 859,
                     "owner": "zaproxy",
                     "repo": "zaproxy",
-                    "stars": 15700,
+                    "stars": 15704,
                     "topics": [
                       "appsec",
                       "dast",
@@ -194,7 +194,7 @@
                     "open_issues": 574,
                     "owner": "x64dbg",
                     "repo": "x64dbg",
-                    "stars": 49337,
+                    "stars": 49345,
                     "topics": [
                       "binary-analysis",
                       "ctf",
@@ -232,8 +232,8 @@
                     "id": 4869294,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-08-29T01:30:06Z",
-                    "open_issues": 824,
+                    "last_commit": "2026-08-29T18:45:47Z",
+                    "open_issues": 826,
                     "owner": "radareorg",
                     "repo": "radare2",
                     "stars": 24674,
@@ -264,8 +264,8 @@
                     "id": 14735429,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-08-28T14:18:08Z",
-                    "open_issues": 367,
+                    "last_commit": "2026-08-29T13:38:23Z",
+                    "open_issues": 363,
                     "owner": "capstone-engine",
                     "repo": "capstone",
                     "stars": 8979,
@@ -373,7 +373,7 @@
                     "open_issues": 443,
                     "owner": "skylot",
                     "repo": "jadx",
-                    "stars": 50251,
+                    "stars": 50258,
                     "topics": [
                       "android",
                       "decompiler",
@@ -399,7 +399,7 @@
                     "open_issues": 248,
                     "owner": "java-decompiler",
                     "repo": "jd-gui",
-                    "stars": 15182,
+                    "stars": 15184,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:55.269Z"
@@ -420,7 +420,7 @@
                     "open_issues": 25,
                     "owner": "Storyyeller",
                     "repo": "Krakatau",
-                    "stars": 2245,
+                    "stars": 2246,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:55.269Z"
@@ -491,11 +491,11 @@
                         "id": 1327739,
                         "language": "C#",
                         "license": "MIT",
-                        "last_commit": "2026-08-28T19:15:37Z",
-                        "open_issues": 186,
+                        "last_commit": "2026-08-29T19:10:35Z",
+                        "open_issues": 184,
                         "owner": "icsharpcode",
                         "repo": "ILSpy",
-                        "stars": 25969,
+                        "stars": 25973,
                         "topics": [
                           "c-sharp",
                           "decompile",
@@ -745,10 +745,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-08-25T23:39:26Z",
-                    "open_issues": 464,
+                    "open_issues": 469,
                     "owner": "mitmproxy",
                     "repo": "mitmproxy",
-                    "stars": 44840,
+                    "stars": 44849,
                     "topics": [
                       "debugging",
                       "http",
@@ -859,7 +859,7 @@
                         "open_issues": 83,
                         "owner": "EUA",
                         "repo": "wxHexEditor",
-                        "stars": 618,
+                        "stars": 619,
                         "topics": [
                           "disk",
                           "editor",
@@ -891,11 +891,11 @@
                         "id": 44662669,
                         "language": "Java",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-08-28T16:35:23Z",
-                        "open_issues": 3364,
+                        "last_commit": "2026-08-29T16:43:10Z",
+                        "open_issues": 3369,
                         "owner": "dbeaver",
                         "repo": "dbeaver",
-                        "stars": 51577,
+                        "stars": 51586,
                         "topics": [
                           "ai",
                           "database",
@@ -935,7 +935,7 @@
                         "open_issues": 93,
                         "owner": "ReFirmLabs",
                         "repo": "binwalk",
-                        "stars": 14284,
+                        "stars": 14289,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T00:40:55.269Z"
@@ -956,7 +956,7 @@
                         "open_issues": 142,
                         "owner": "lucasg",
                         "repo": "Dependencies",
-                        "stars": 11789,
+                        "stars": 11792,
                         "topics": [
                           "csharp",
                           "dll",
@@ -1052,7 +1052,7 @@
                         "open_issues": 5,
                         "owner": "mildsunrise",
                         "repo": "protobuf-inspector",
-                        "stars": 1125,
+                        "stars": 1126,
                         "topics": [
                           "protocol-buffers",
                           "reverse-engineering",
@@ -1118,10 +1118,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T07:44:26Z",
-                "open_issues": 32,
+                "open_issues": 34,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38294,
+                "stars": 38306,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -1158,7 +1158,7 @@
                 "open_issues": 414,
                 "owner": "robertdavidgraham",
                 "repo": "masscan",
-                "stars": 25959,
+                "stars": 25961,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:40:55.269Z"
@@ -1176,7 +1176,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-08-27T18:53:08Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "projectdiscovery",
                 "repo": "subfinder",
                 "stars": 14330,
@@ -1208,7 +1208,7 @@
                 "open_issues": 1,
                 "owner": "codingo",
                 "repo": "NoSQLMap",
-                "stars": 3345,
+                "stars": 3344,
                 "topics": [
                   "bugbounty",
                   "couchdb",
@@ -1461,7 +1461,7 @@
                 "open_issues": 61,
                 "owner": "bee-san",
                 "repo": "RustScan",
-                "stars": 20340,
+                "stars": 20342,
                 "topics": [
                   "docker",
                   "hacking",
@@ -1494,7 +1494,7 @@
                 "open_issues": 239,
                 "owner": "owasp-amass",
                 "repo": "amass",
-                "stars": 15057,
+                "stars": 15058,
                 "topics": [
                   "attack-surfaces",
                   "dns",
@@ -1875,7 +1875,7 @@
                 "open_issues": 0,
                 "owner": "bee-san",
                 "repo": "Ciphey",
-                "stars": 21582,
+                "stars": 21586,
                 "topics": [
                   "artificial-intelligence",
                   "cipher",
@@ -2046,7 +2046,7 @@
                 "open_issues": 101,
                 "owner": "EmpireProject",
                 "repo": "Empire",
-                "stars": 7862,
+                "stars": 7863,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:40:55.269Z"
@@ -2120,7 +2120,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:13:16.437Z",
+    "last_updated": "2026-08-29T19:30:06.043Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Hacking tutorials, tools and resources",
@@ -2132,7 +2132,7 @@
       "open_issues": 69,
       "owner": "carpedm20",
       "repo": "awesome-hacking",
-      "stars": 16964,
+      "stars": 16967,
       "topics": [
         "awesome",
         "hacking"

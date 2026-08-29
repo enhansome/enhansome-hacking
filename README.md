@@ -65,7 +65,7 @@ For a list of free hacking books available for download, go [here](https://githu
 
 ### Docker Images for Penetration Testing & Security
 
-* `docker pull owasp/zap2docker-stable` - [official OWASP ZAP](https://github.com/zaproxy/zaproxy) ⭐ 15,699 | 🐛 858 | 🌐 Java | 📅 2026-08-27
+* `docker pull owasp/zap2docker-stable` - [official OWASP ZAP](https://github.com/zaproxy/zaproxy) ⭐ 15,700 | 🐛 858 | 🌐 Java | 📅 2026-08-27
 * `docker pull vulnerables/web-owasp-nodegoat` - [OWASP NodeGoat](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker) ⭐ 2,060 | 🐛 107 | 🌐 HTML | 📅 2024-06-15
 * `docker pull kalilinux/kali-linux-docker` [official Kali Linux](https://hub.docker.com/r/kalilinux/kali-last-release/)
 * `docker pull wpscanteam/wpscan` - [official WPScan](https://hub.docker.com/r/wpscanteam/wpscan/)
@@ -102,7 +102,7 @@ For a list of free hacking books available for download, go [here](https://githu
 ### Disassemblers and debuggers
 
 * [x64dbg](https://github.com/x64dbg/x64dbg) ⭐ 49,337 | 🐛 574 | 🌐 C++ | 📅 2026-08-23 - An open-source x64/x32 debugger for Windows
-* [radare2](https://github.com/radare/radare2) ⭐ 24,672 | 🐛 823 | 🌐 C | 📅 2026-08-29 - A portable reversing framework
+* [radare2](https://github.com/radare/radare2) ⭐ 24,674 | 🐛 824 | 🌐 C | 📅 2026-08-29 - A portable reversing framework
 * [Capstone](https://github.com/aquynh/capstone) ⭐ 8,979 | 🐛 367 | 🌐 C | 📅 2026-08-28
 * [plasma](https://github.com/joelpx/plasma) ⭐ 3,071 | 🐛 15 | 🌐 Python | 📅 2021-08-31 - Interactive disassembler for x86/ARM/MIPS. Generates indented pseudo-code with colored syntax code.
 * [ScratchABit](https://github.com/pfalcon/ScratchABit) ⭐ 413 | 🐛 29 | 🌐 Python | 📅 2020-11-25 - Easily retargetable and hackable interactive disassembler with IDAPython-compatible plugin API
@@ -112,7 +112,7 @@ For a list of free hacking books available for download, go [here](https://githu
 
 ### Decompilers
 
-* [JADX](https://github.com/skylot/jadx) ⭐ 50,248 | 🐛 443 | 🌐 Java | 📅 2026-08-28 - a decompiler for Android apps. Not related to JAD.
+* [JADX](https://github.com/skylot/jadx) ⭐ 50,251 | 🐛 443 | 🌐 Java | 📅 2026-08-28 - a decompiler for Android apps. Not related to JAD.
 
 * [JD-GUI](https://github.com/java-decompiler/jd-gui) ⭐ 15,182 | 🐛 248 | 🌐 Java | 📅 2024-07-08
 
@@ -127,11 +127,11 @@ For a list of free hacking books available for download, go [here](https://githu
 
 * .net-based languages
   * [dnSpy](https://github.com/0xd4d/dnSpy) ⚠️ Archived - .NET assembly editor, decompiler, and debugger
-  * [ILSpy](https://github.com/icsharpcode/ILSpy/) ⭐ 25,968 | 🐛 186 | 🌐 C# | 📅 2026-08-28 - an open-source .NET assembly browser and decompiler
+  * [ILSpy](https://github.com/icsharpcode/ILSpy/) ⭐ 25,969 | 🐛 186 | 🌐 C# | 📅 2026-08-28 - an open-source .NET assembly browser and decompiler
   * [dotPeek](https://www.jetbrains.com/decompiler/) - a free-of-charge .NET decompiler from JetBrains
 
 * native code
-  * [retdec](https://github.com/avast-tl/retdec) ⭐ 8,614 | 🐛 458 | 🌐 C++ | 📅 2026-05-26
+  * [retdec](https://github.com/avast-tl/retdec) ⭐ 8,615 | 🐛 458 | 🌐 C++ | 📅 2026-05-26
   * [snowman](https://github.com/yegord/snowman) ⚠️ Archived
   * [Hopper](https://www.hopperapp.com) - A OS X and Linux Disassembler/Decompiler for 32/64-bit Windows/Mac/Linux/iOS executables.
   * [cutter](https://github.com/radareorg/cutter) - a decompiler based on radare2.
@@ -176,9 +176,9 @@ For a list of free hacking books available for download, go [here](https://githu
 
 #### Other
 
-* [DBeaver](https://github.com/dbeaver/dbeaver) ⭐ 51,575 | 🐛 3,364 | 🌐 Java | 📅 2026-08-28 - a DB editor.
-* [Binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,283 | 🐛 93 | 🌐 Rust | 📅 2026-08-11 -  Detects signatures, unpacks archives, visualizes entropy.
-* [Dependencies](https://github.com/lucasg/Dependencies) ⭐ 11,788 | 🐛 142 | 🌐 C# | 📅 2024-05-15 - a FOSS replacement to Dependency Walker.
+* [DBeaver](https://github.com/dbeaver/dbeaver) ⭐ 51,577 | 🐛 3,364 | 🌐 Java | 📅 2026-08-28 - a DB editor.
+* [Binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,284 | 🐛 93 | 🌐 Rust | 📅 2026-08-11 -  Detects signatures, unpacks archives, visualizes entropy.
+* [Dependencies](https://github.com/lucasg/Dependencies) ⭐ 11,789 | 🐛 142 | 🌐 C# | 📅 2024-05-15 - a FOSS replacement to Dependency Walker.
 * [Kaitai Struct](https://github.com/kaitai-io/kaitai_struct) ⭐ 4,666 | 🐛 528 | 🌐 Shell | 📅 2026-08-17 - a DSL for creating parsers in a variety of programming languages. The Web IDE is particularly useful for reverse-engineering.
 * [Veles](https://github.com/codilime/veles) ⚠️ Archived - a visualizer for statistical properties of blobs.
 * [Protobuf inspector](https://github.com/jmendeth/protobuf-inspector) ⭐ 1,125 | 🐛 5 | 🌐 Python | 📅 2020-12-13
@@ -194,7 +194,7 @@ For a list of free hacking books available for download, go [here](https://githu
 
 ## Tools
 
-* [sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,293 | 🐛 32 | 🌐 Python | 📅 2026-08-28 - Automatic SQL injection and database takeover tool
+* [sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,294 | 🐛 32 | 🌐 Python | 📅 2026-08-28 - Automatic SQL injection and database takeover tool
 * [masscan](https://github.com/robertdavidgraham/masscan) ⭐ 25,959 | 🐛 414 | 🌐 C | 📅 2026-04-23 - Internet scale portscanner.
 * [SubFinder](https://github.com/subfinder/subfinder) ⭐ 14,330 | 🐛 5 | 🌐 Go | 📅 2026-08-27 - SubFinder is a subdomain discovery tool that discovers valid subdomains for any target using passive online sources.
 * [NoSQLMap](https://github.com/codingo/NoSQLMap) ⭐ 3,345 | 🐛 1 | 🌐 Python | 📅 2026-07-28 - Automated NoSQL database enumeration and web application exploitation tool.

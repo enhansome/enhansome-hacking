@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Understanding the basics of Linux Binary Exploitation",
-              "description": null,
+              "description": "rosehgal/BinExp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -64,10 +64,10 @@
                 "language": "Ruby",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T13:19:47Z",
-                "open_issues": 609,
+                "open_issues": 611,
                 "owner": "rapid7",
                 "repo": "metasploit-framework",
-                "stars": 39077,
+                "stars": 39076,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -100,7 +100,7 @@
                 {
                   "node_type": "item",
                   "title": "- official OWASP ZAP",
-                  "description": null,
+                  "description": "zaproxy/zaproxy",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -113,7 +113,7 @@
                     "open_issues": 864,
                     "owner": "zaproxy",
                     "repo": "zaproxy",
-                    "stars": 15857,
+                    "stars": 15860,
                     "topics": [
                       "appsec",
                       "dast",
@@ -131,7 +131,7 @@
                 {
                   "node_type": "item",
                   "title": "- OWASP NodeGoat",
-                  "description": null,
+                  "description": "OWASP/NodeGoat",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -194,7 +194,7 @@
                     "open_issues": 577,
                     "owner": "x64dbg",
                     "repo": "x64dbg",
-                    "stars": 49676,
+                    "stars": 49677,
                     "topics": [
                       "binary-analysis",
                       "ctf",
@@ -233,10 +233,10 @@
                     "language": "C",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-02T17:13:48Z",
-                    "open_issues": 795,
+                    "open_issues": 798,
                     "owner": "radareorg",
                     "repo": "radare2",
-                    "stars": 24911,
+                    "stars": 24912,
                     "topics": [
                       "binary-analysis",
                       "c",
@@ -255,7 +255,7 @@
                 {
                   "node_type": "item",
                   "title": "Capstone",
-                  "description": null,
+                  "description": "capstone-engine/capstone",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -265,7 +265,7 @@
                     "language": "C",
                     "license": null,
                     "last_commit": "2026-09-30T15:37:31Z",
-                    "open_issues": 358,
+                    "open_issues": 360,
                     "owner": "capstone-engine",
                     "repo": "capstone",
                     "stars": 9046,
@@ -373,7 +373,7 @@
                     "open_issues": 455,
                     "owner": "skylot",
                     "repo": "jadx",
-                    "stars": 50713,
+                    "stars": 50719,
                     "topics": [
                       "android",
                       "decompiler",
@@ -386,7 +386,7 @@
                 {
                   "node_type": "item",
                   "title": "JD-GUI",
-                  "description": null,
+                  "description": "java-decompiler/jd-gui",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -399,7 +399,7 @@
                     "open_issues": 248,
                     "owner": "java-decompiler",
                     "repo": "jd-gui",
-                    "stars": 15199,
+                    "stars": 15200,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:40:55.269Z"
@@ -521,7 +521,7 @@
                     {
                       "node_type": "item",
                       "title": "retdec",
-                      "description": null,
+                      "description": "avast/retdec",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -542,7 +542,7 @@
                     {
                       "node_type": "item",
                       "title": "snowman",
-                      "description": null,
+                      "description": "yegord/snowman",
                       "children": [],
                       "repo_info": {
                         "archived": true,
@@ -604,7 +604,7 @@
                 {
                   "node_type": "item",
                   "title": "JS Beautifier",
-                  "description": null,
+                  "description": "beautifier/js-beautify",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -745,10 +745,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-02T10:09:11Z",
-                    "open_issues": 493,
+                    "open_issues": 492,
                     "owner": "mitmproxy",
                     "repo": "mitmproxy",
-                    "stars": 45233,
+                    "stars": 45235,
                     "topics": [
                       "debugging",
                       "http",
@@ -846,7 +846,7 @@
                     {
                       "node_type": "item",
                       "title": "wxHexEditor",
-                      "description": null,
+                      "description": "EUA/wxHexEditor",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -935,7 +935,7 @@
                         "open_issues": 98,
                         "owner": "ReFirmLabs",
                         "repo": "binwalk",
-                        "stars": 14391,
+                        "stars": 14390,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T00:40:55.269Z"
@@ -1039,7 +1039,7 @@
                     {
                       "node_type": "item",
                       "title": "Protobuf inspector",
-                      "description": null,
+                      "description": "mildsunrise/protobuf-inspector",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1121,7 +1121,7 @@
                 "open_issues": 32,
                 "owner": "sqlmapproject",
                 "repo": "sqlmap",
-                "stars": 38582,
+                "stars": 38587,
                 "topics": [
                   "api-security",
                   "appsec",
@@ -1158,7 +1158,7 @@
                 "open_issues": 415,
                 "owner": "robertdavidgraham",
                 "repo": "masscan",
-                "stars": 26057,
+                "stars": 26059,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:40:55.269Z"
@@ -1179,7 +1179,7 @@
                 "open_issues": 7,
                 "owner": "projectdiscovery",
                 "repo": "subfinder",
-                "stars": 14546,
+                "stars": 14549,
                 "topics": [
                   "bugbounty",
                   "hacking",
@@ -1208,7 +1208,7 @@
                 "open_issues": 1,
                 "owner": "codingo",
                 "repo": "NoSQLMap",
-                "stars": 3357,
+                "stars": 3356,
                 "topics": [
                   "bugbounty",
                   "couchdb",
@@ -1461,7 +1461,7 @@
                 "open_issues": 18,
                 "owner": "bee-san",
                 "repo": "RustScan",
-                "stars": 20485,
+                "stars": 20486,
                 "topics": [
                   "docker",
                   "hacking",
@@ -1494,7 +1494,7 @@
                 "open_issues": 244,
                 "owner": "owasp-amass",
                 "repo": "amass",
-                "stars": 15246,
+                "stars": 15247,
                 "topics": [
                   "attack-surfaces",
                   "dns",
@@ -1871,8 +1871,8 @@
                 "id": 197261780,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-02T20:40:15Z",
-                "open_issues": 106,
+                "last_commit": "2026-10-03T04:44:11Z",
+                "open_issues": 95,
                 "owner": "bee-san",
                 "repo": "Ciphey",
                 "stars": 21644,
@@ -1953,7 +1953,7 @@
                 "open_issues": 131,
                 "owner": "k4m4",
                 "repo": "movies-for-hackers",
-                "stars": 11924,
+                "stars": 11926,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2067,7 +2067,7 @@
                 "open_issues": 48,
                 "owner": "byt3bl33d3r",
                 "repo": "SILENTTRINITY",
-                "stars": 2344,
+                "stars": 2345,
                 "topics": [
                   "boolang",
                   "c-sharp",
@@ -2120,7 +2120,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:56:53.837Z",
+    "last_updated": "2026-10-03T04:48:08.514Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Hacking tutorials, tools and resources",
@@ -2132,7 +2132,7 @@
       "open_issues": 74,
       "owner": "carpedm20",
       "repo": "awesome-hacking",
-      "stars": 17185,
+      "stars": 17186,
       "topics": [
         "awesome",
         "hacking"

@@ -1,6 +1,6 @@
 # Awesome Hacking -An Amazing Project with stars
 
-A curated list of awesome Hacking. Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning/) ⭐ 74,649 | 🐛 24 | 🌐 Python | 📅 2026-10-22
+A curated list of awesome Hacking. Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning/) ⭐ 74,653 | 🐛 24 | 🌐 Python | 📅 2026-10-22
 
 If you want to contribute to this list (please do), send me a pull request!
 
@@ -49,7 +49,7 @@ For a list of free hacking books available for download, go [here](https://githu
 
 ## Tutorials
 
-* [Understanding the basics of Linux Binary Exploitation](https://github.com/r0hi7/BinExp) ⭐ 1,359 | 🐛 4 | 🌐 C | 📅 2021-06-15
+* [Understanding the basics of Linux Binary Exploitation](https://github.com/r0hi7/BinExp) ⭐ 1,360 | 🐛 4 | 🌐 C | 📅 2021-06-15
 * [Roppers Computing Fundamentals](https://www.roppers.org/courses/fundamentals)
   * Free, self-paced curriculum that builds a base of knowledge in computers and networking. Intended to build up a student with no prior technical knowledge to be confident in their ability to learn anything and continue their security education. Full text available as a [gitbook](https://www.hoppersroppers.org/fundamentals/).
 * [Corelan Team's Exploit writing tutorial](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
@@ -59,14 +59,14 @@ For a list of free hacking books available for download, go [here](https://githu
 
 ## Tools
 
-* [Metasploit](https://github.com/rapid7/metasploit-framework) ⭐ 39,217 | 🐛 610 | 🌐 Ruby | 📅 2026-10-23 A computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.
-* [mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,924 | 🐛 198 | 🌐 C | 📅 2026-04-17 - A little tool to play with Windows security
+* [Metasploit](https://github.com/rapid7/metasploit-framework) ⭐ 39,224 | 🐛 612 | 🌐 Ruby | 📅 2026-10-23 A computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.
+* [mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,926 | 🐛 198 | 🌐 C | 📅 2026-04-17 - A little tool to play with Windows security
 * [Hackers tools](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuiujH1lpn8cA9dsyulbYRv) - Tutorial on tools.
 
 ### Docker Images for Penetration Testing & Security
 
-* `docker pull owasp/zap2docker-stable` - [official OWASP ZAP](https://github.com/zaproxy/zaproxy) ⭐ 16,014 | 🐛 866 | 🌐 Java | 📅 2026-10-23
-* `docker pull vulnerables/web-owasp-nodegoat` - [OWASP NodeGoat](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker) ⭐ 2,083 | 🐛 119 | 🌐 HTML | 📅 2024-06-15
+* `docker pull owasp/zap2docker-stable` - [official OWASP ZAP](https://github.com/zaproxy/zaproxy) ⭐ 16,022 | 🐛 869 | 🌐 Java | 📅 2026-10-23
+* `docker pull vulnerables/web-owasp-nodegoat` - [OWASP NodeGoat](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker) ⭐ 2,083 | 🐛 118 | 🌐 HTML | 📅 2024-06-15
 * `docker pull kalilinux/kali-linux-docker` [official Kali Linux](https://hub.docker.com/r/kalilinux/kali-last-release/)
 * `docker pull wpscanteam/wpscan` - [official WPScan](https://hub.docker.com/r/wpscanteam/wpscan/)
 * `docker pull metasploitframework/metasploit-framework
@@ -101,9 +101,9 @@ For a list of free hacking books available for download, go [here](https://githu
 
 ### Disassemblers and debuggers
 
-* [x64dbg](https://github.com/x64dbg/x64dbg) ⭐ 50,001 | 🐛 577 | 🌐 C++ | 📅 2026-10-20 - An open-source x64/x32 debugger for Windows
-* [radare2](https://github.com/radare/radare2) ⭐ 25,135 | 🐛 797 | 🌐 C | 📅 2026-10-23 - A portable reversing framework
-* [Capstone](https://github.com/aquynh/capstone) ⭐ 9,128 | 🐛 349 | 🌐 C | 📅 2026-10-22
+* [x64dbg](https://github.com/x64dbg/x64dbg) ⭐ 50,012 | 🐛 577 | 🌐 C++ | 📅 2026-10-20 - An open-source x64/x32 debugger for Windows
+* [radare2](https://github.com/radare/radare2) ⭐ 25,140 | 🐛 797 | 🌐 C | 📅 2026-10-24 - A portable reversing framework
+* [Capstone](https://github.com/aquynh/capstone) ⭐ 9,131 | 🐛 345 | 🌐 C | 📅 2026-10-24
 * [plasma](https://github.com/joelpx/plasma) ⭐ 3,071 | 🐛 15 | 🌐 Python | 📅 2021-08-31 - Interactive disassembler for x86/ARM/MIPS. Generates indented pseudo-code with colored syntax code.
 * [ScratchABit](https://github.com/pfalcon/ScratchABit) ⭐ 413 | 🐛 29 | 🌐 Python | 📅 2020-11-25 - Easily retargetable and hackable interactive disassembler with IDAPython-compatible plugin API
 * [IDA](https://www.hex-rays.com/products/ida/) - IDA is a Windows, Linux or Mac OS X hosted multi-processor disassembler and debugger
@@ -112,11 +112,11 @@ For a list of free hacking books available for download, go [here](https://githu
 
 ### Decompilers
 
-* [JADX](https://github.com/skylot/jadx) ⭐ 51,217 | 🐛 462 | 🌐 Java | 📅 2026-10-14 - a decompiler for Android apps. Not related to JAD.
+* [JADX](https://github.com/skylot/jadx) ⭐ 51,237 | 🐛 461 | 🌐 Java | 📅 2026-10-23 - a decompiler for Android apps. Not related to JAD.
 
-* [JD-GUI](https://github.com/java-decompiler/jd-gui) ⭐ 15,219 | 🐛 248 | 🌐 Java | 📅 2024-07-08
+* [JD-GUI](https://github.com/java-decompiler/jd-gui) ⭐ 15,222 | 🐛 248 | 🌐 Java | 📅 2024-07-08
 
-* [Krakatau](https://github.com/Storyyeller/Krakatau) ⭐ 2,261 | 🐛 26 | 🌐 Rust | 📅 2026-09-25 - the best decompiler I have used. Is able to decompile apps written in Scala and Kotlin into Java code. JD-GUI and Luyten have failed to do it fully.
+* [Krakatau](https://github.com/Storyyeller/Krakatau) ⭐ 2,261 | 🐛 26 | 🌐 Rust | 📅 2026-10-24 - the best decompiler I have used. Is able to decompile apps written in Scala and Kotlin into Java code. JD-GUI and Luyten have failed to do it fully.
 
 * JVM-based languages
 
@@ -127,7 +127,7 @@ For a list of free hacking books available for download, go [here](https://githu
 
 * .net-based languages
   * [dnSpy](https://github.com/0xd4d/dnSpy) ⚠️ Archived - .NET assembly editor, decompiler, and debugger
-  * [ILSpy](https://github.com/icsharpcode/ILSpy/) ⭐ 26,791 | 🐛 156 | 🌐 C# | 📅 2026-10-23 - an open-source .NET assembly browser and decompiler
+  * [ILSpy](https://github.com/icsharpcode/ILSpy/) ⭐ 26,802 | 🐛 159 | 🌐 C# | 📅 2026-10-24 - an open-source .NET assembly browser and decompiler
   * [dotPeek](https://www.jetbrains.com/decompiler/) - a free-of-charge .NET decompiler from JetBrains
 
 * native code
@@ -138,11 +138,11 @@ For a list of free hacking books available for download, go [here](https://githu
   * [Hex-Rays](https://www.hex-rays.com/products/decompiler/)
 
 * Python
-  * [uncompyle6](https://github.com/rocky/python-uncompyle6) ⭐ 4,331 | 🐛 42 | 🌐 Python | 📅 2026-10-05 - decompiler for the over 20 releases and 20 years of CPython.
+  * [uncompyle6](https://github.com/rocky/python-uncompyle6) ⭐ 4,330 | 🐛 42 | 🌐 Python | 📅 2026-10-05 - decompiler for the over 20 releases and 20 years of CPython.
 
 ### Deobfuscators
 
-* [JS Beautifier](https://github.com/beautify-web/js-beautify) ⭐ 8,998 | 🐛 450 | 🌐 JavaScript | 📅 2026-10-19
+* [JS Beautifier](https://github.com/beautify-web/js-beautify) ⭐ 9,000 | 🐛 450 | 🌐 JavaScript | 📅 2026-10-19
 * [de4dot](https://github.com/0xd4d/de4dot) ⚠️ Archived - .NET deobfuscator and unpacker.
 * [JS Nice](http://jsnice.org/) - a web service guessing JS variables names and types based on the model derived from open source.
 
@@ -156,7 +156,7 @@ For a list of free hacking books available for download, go [here](https://githu
 
 ### Execution logging and tracing
 
-* [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 46,242 | 🐛 505 | 🌐 Python | 📅 2026-10-23 - An interactive, SSL-capable man-in-the-middle proxy for HTTP with a console interface
+* [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 46,284 | 🐛 510 | 🌐 Python | 📅 2026-10-23 - An interactive, SSL-capable man-in-the-middle proxy for HTTP with a console interface
 * [USBPcap](https://github.com/desowin/usbpcap) ⭐ 1,148 | 🐛 64 | 🌐 C | 📅 2025-02-09 - USB capture for Windows.
 * [drltrace](https://github.com/mxmssh/drltrace) ⭐ 419 | 🐛 17 | 🌐 HTML | 📅 2020-08-16 - shared library calls tracing.
 * [dynStruct](https://github.com/ampotos/dynStruct) ⭐ 330 | 🐛 18 | 🌐 C | 📅 2019-08-12 - structures recovery via dynamic instrumentation.
@@ -176,10 +176,10 @@ For a list of free hacking books available for download, go [here](https://githu
 
 #### Other
 
-* [DBeaver](https://github.com/dbeaver/dbeaver) ⭐ 52,184 | 🐛 3,350 | 🌐 Java | 📅 2026-10-23 - a DB editor.
-* [Binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,542 | 🐛 102 | 🌐 Rust | 📅 2026-08-11 -  Detects signatures, unpacks archives, visualizes entropy.
-* [Dependencies](https://github.com/lucasg/Dependencies) ⭐ 11,915 | 🐛 144 | 🌐 C# | 📅 2024-05-15 - a FOSS replacement to Dependency Walker.
-* [Kaitai Struct](https://github.com/kaitai-io/kaitai_struct) ⭐ 4,720 | 🐛 528 | 🌐 Shell | 📅 2026-10-19 - a DSL for creating parsers in a variety of programming languages. The Web IDE is particularly useful for reverse-engineering.
+* [DBeaver](https://github.com/dbeaver/dbeaver) ⭐ 52,194 | 🐛 3,351 | 🌐 Java | 📅 2026-10-24 - a DB editor.
+* [Binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,543 | 🐛 102 | 🌐 Rust | 📅 2026-08-11 -  Detects signatures, unpacks archives, visualizes entropy.
+* [Dependencies](https://github.com/lucasg/Dependencies) ⭐ 11,920 | 🐛 144 | 🌐 C# | 📅 2024-05-15 - a FOSS replacement to Dependency Walker.
+* [Kaitai Struct](https://github.com/kaitai-io/kaitai_struct) ⭐ 4,719 | 🐛 528 | 🌐 Shell | 📅 2026-10-19 - a DSL for creating parsers in a variety of programming languages. The Web IDE is particularly useful for reverse-engineering.
 * [Veles](https://github.com/codilime/veles) ⚠️ Archived - a visualizer for statistical properties of blobs.
 * [Protobuf inspector](https://github.com/jmendeth/protobuf-inspector) ⭐ 1,129 | 🐛 5 | 🌐 Python | 📅 2020-12-13
 * [DarunGrim](https://github.com/ohjeongwook/DarunGrim) ⭐ 365 | 🐛 4 | 📅 2020-08-22 - executable differ.
@@ -194,12 +194,12 @@ For a list of free hacking books available for download, go [here](https://githu
 
 ## Tools
 
-* [sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,772 | 🐛 14 | 🌐 Python | 📅 2026-10-22 - Automatic SQL injection and database takeover tool
+* [sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,776 | 🐛 14 | 🌐 Python | 📅 2026-10-22 - Automatic SQL injection and database takeover tool
 * [masscan](https://github.com/robertdavidgraham/masscan) ⭐ 26,096 | 🐛 414 | 🌐 C | 📅 2026-10-05 - Internet scale portscanner.
-* [SubFinder](https://github.com/subfinder/subfinder) ⭐ 14,651 | 🐛 2 | 🌐 Go | 📅 2026-10-23 - SubFinder is a subdomain discovery tool that discovers valid subdomains for any target using passive online sources.
+* [SubFinder](https://github.com/subfinder/subfinder) ⭐ 14,656 | 🐛 2 | 🌐 Go | 📅 2026-10-23 - SubFinder is a subdomain discovery tool that discovers valid subdomains for any target using passive online sources.
 * [NoSQLMap](https://github.com/codingo/NoSQLMap) ⭐ 3,364 | 🐛 1 | 🌐 Python | 📅 2026-10-13 - Automated NoSQL database enumeration and web application exploitation tool.
-* [PhpSploit](https://github.com/nil0x42/phpsploit) ⭐ 2,501 | 🐛 27 | 🌐 Python | 📅 2024-05-06 - Full-featured C2 framework which silently persists on webserver via evil PHP oneliner
-* [VHostScan](https://github.com/codingo/VHostScan) ⭐ 1,312 | 🐛 1 | 🌐 Python | 📅 2025-08-18 - A virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, aliases and dynamic default pages.
+* [PhpSploit](https://github.com/nil0x42/phpsploit) ⭐ 2,500 | 🐛 27 | 🌐 Python | 📅 2024-05-06 - Full-featured C2 framework which silently persists on webserver via evil PHP oneliner
+* [VHostScan](https://github.com/codingo/VHostScan) ⭐ 1,313 | 🐛 1 | 🌐 Python | 📅 2025-08-18 - A virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, aliases and dynamic default pages.
 * [badtouch](https://github.com/kpcyrd/badtouch) ⭐ 420 | 🐛 24 | 🌐 Rust | 📅 2023-12-19 - Scriptable network authentication cracker
 * [Keyscope](https://github.com/SpectralOps/keyscope) ⭐ 412 | 🐛 1 | 🌐 Rust | 📅 2025-07-24 - an extensible key and secret validation tool for auditing active secrets against multiple SaaS vendors
 * [Git-Scanner](https://github.com/HightechSec/git-scanner) ⭐ 389 | 🐛 3 | 🌐 Shell | 📅 2020-06-23 - A tool for bug hunting or pentesting for targeting websites that have open `.git` repositories available in public
@@ -218,8 +218,8 @@ For a list of free hacking books available for download, go [here](https://githu
 
 ## Tools
 
-* [RustScan](https://github.com/rustscan/rustscan) ⭐ 20,599 | 🐛 19 | 🌐 Rust | 📅 2026-10-20 - Extremely fast port scanner built with Rust, designed to scan all ports in a couple of seconds and utilizes nmap to perform port enumeration in a fraction of the time.
-* [Amass](https://github.com/OWASP/Amass) ⭐ 15,399 | 🐛 250 | 🌐 Go | 📅 2026-07-19 - In-depth subdomain enumeration tool that performs scraping, recursive brute forcing, crawling of web archives, name altering and reverse DNS sweeping
+* [RustScan](https://github.com/rustscan/rustscan) ⭐ 20,601 | 🐛 19 | 🌐 Rust | 📅 2026-10-20 - Extremely fast port scanner built with Rust, designed to scan all ports in a couple of seconds and utilizes nmap to perform port enumeration in a fraction of the time.
+* [Amass](https://github.com/OWASP/Amass) ⭐ 15,412 | 🐛 250 | 🌐 Go | 📅 2026-07-19 - In-depth subdomain enumeration tool that performs scraping, recursive brute forcing, crawling of web archives, name altering and reverse DNS sweeping
 * [Nipe](https://github.com/GouveaHeitor/nipe) ⭐ 2,403 | 🐛 14 | 🌐 Perl | 📅 2026-09-13 - A script to make Tor Network your default gateway.
 * [ssh-mitm](https://github.com/jtesta/ssh-mitm) ⚠️ Archived - An SSH/SFTP man-in-the-middle tool that logs interactive sessions and passwords.
 * [sniffglue](https://github.com/kpcyrd/sniffglue) ⭐ 1,266 | 🐛 17 | 🌐 Rust | 📅 2026-04-19 - Secure multithreaded packet sniffer
@@ -244,7 +244,7 @@ For a list of free hacking books available for download, go [here](https://githu
 
 ## Tools
 
-* [sleuthkit](https://github.com/sleuthkit/sleuthkit) ⭐ 3,171 | 🐛 494 | 🌐 C | 📅 2026-10-20 - A library and collection of command-line digital forensics tools
+* [sleuthkit](https://github.com/sleuthkit/sleuthkit) ⭐ 3,171 | 🐛 495 | 🌐 C | 📅 2026-10-20 - A library and collection of command-line digital forensics tools
 * [CyLR](https://github.com/orlikoski/CyLR) ⭐ 737 | 🐛 21 | 🌐 C# | 📅 2022-06-01 - NTFS forensic image collector
 * [Autopsy](http://www.sleuthkit.org/autopsy/) - A digital forensics platform and graphical interface to [The Sleuth Kit](http://www.sleuthkit.org/sleuthkit/index.php) and other digital forensics tools
 * [EnCase](https://www.guidancesoftware.com/products/Pages/encase-forensic/overview.aspx) - The shared technology within a suite of digital investigations products by Guidance Software
@@ -256,7 +256,7 @@ For a list of free hacking books available for download, go [here](https://githu
 
 ### Tools
 
-* [Ciphey](https://github.com/ciphey/ciphey) ⭐ 21,696 | 🐛 66 | 🌐 Rust | 📅 2026-10-13 - Automated decryption tool using artificial intelligence & natural language processing.
+* [Ciphey](https://github.com/ciphey/ciphey) ⭐ 21,697 | 🐛 66 | 🌐 Rust | 📅 2026-10-13 - Automated decryption tool using artificial intelligence & natural language processing.
 * [xortool](https://github.com/hellman/xortool) ⭐ 1,492 | 🐛 3 | 🌐 Python | 📅 2025-05-21 - A tool to analyze multi-byte XOR cipher
 * [John the Ripper](http://www.openwall.com/john/) - A fast password cracker
 * [Aircrack](http://www.aircrack-ng.org/) - Aircrack is 802.11 WEP and WPA-PSK keys cracking program.
@@ -297,7 +297,7 @@ For a list of free hacking books available for download, go [here](https://githu
 
 ## Bug bounty
 
-* [Awesome bug bounty resources by EdOverflow](https://github.com/EdOverflow/bugbounty-cheatsheet) ⭐ 6,569 | 🐛 13 | 📅 2023-09-14
+* [Awesome bug bounty resources by EdOverflow](https://github.com/EdOverflow/bugbounty-cheatsheet) ⭐ 6,570 | 🐛 13 | 📅 2023-09-14
 
 ## Bug bounty -  Earn Some Money
 
@@ -327,7 +327,7 @@ For a list of free hacking books available for download, go [here](https://githu
 
 ## General
 
-* [Movies For Hackers](https://github.com/k4m4/movies-for-hackers) ⭐ 11,963 | 🐛 131 | 🌐 Shell | 📅 2024-08-01 - A curated list of movies every hacker & cyberpunk must watch.
+* [Movies For Hackers](https://github.com/k4m4/movies-for-hackers) ⭐ 11,966 | 🐛 131 | 🌐 Shell | 📅 2024-08-01 - A curated list of movies every hacker & cyberpunk must watch.
 * [Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) ⚠️ Archived - Collection of cheat sheets useful for pentesting
 * [Hack+](http://hack.plus) - An Intelligent network of bots that fetch the latest InfoSec content.
 * [CTFtime.org](https://ctftime.org/) - All about CTF (Capture The Flag)
@@ -363,4 +363,4 @@ For a list of free hacking books available for download, go [here](https://githu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
